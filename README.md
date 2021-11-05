@@ -10,7 +10,8 @@ Make a shared state AJAX drawing program
 Contributors / Licensing
 ========================
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle, Janhavi Deshmukh.
+
 Random color generator code in index.html : https://stackoverflow.com/questions/1484506/random-color-generator
 
 
